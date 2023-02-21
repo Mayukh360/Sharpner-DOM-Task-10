@@ -14,3 +14,4 @@ document.getElementById("myButton").onclick= function(){
 }
 
 //localStorage.clear() -->clear local storage
+
